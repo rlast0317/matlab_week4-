@@ -1,0 +1,4 @@
+function y = kms_24013976_func_1(x)
+    % f(x) = 0.3x - sin(2x) 정의
+    y = 0.3 * x - sin(2 * x);
+end
